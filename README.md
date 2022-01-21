@@ -1,6 +1,11 @@
-<!-- ![Banner](https://github.com/Tejaswi-Chaudhari/Tejaswi-Chaudhari/blob/7b2e48c467e9a314b5e5e8bb87e170af27bed601/Banner.gif) -->
-
-<h1 align="center">Hello World, I am Tanishq👋</h1>
+![Banner](https://github.com/Tejaswi-Chaudhari/Tejaswi-Chaudhari/blob/7b2e48c467e9a314b5e5e8bb87e170af27bed601/Banner.gif)
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Tanishq+Kashyap...;Nice+to+meet+you!&center=true&size=27">
+  </a>
+</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sanskar0901"> 
   <img src="https://img.shields.io/github/followers/sanskar0901?label=Follow&style=social)[(https://github.com/sanskar0901">
