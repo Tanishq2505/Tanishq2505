@@ -1,4 +1,4 @@
-![Banner](https://github.com/Tejaswi-Chaudhari/Tejaswi-Chaudhari/blob/7b2e48c467e9a314b5e5e8bb87e170af27bed601/Banner.gif)
+
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 <h1 align="center">
