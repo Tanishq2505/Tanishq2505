@@ -7,7 +7,7 @@
   <img src="https://shields.io/github/stars/sanskar0901?label=Stars&style=social)[(https://github.com/sanskar0901">
 </p>
 
-<img src="display.gif" width="400px" alt="GIF" align="right"> 
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" alt="GIF" align="right"> 
 <br />
 
   - 🔭 I’m an App Developer
