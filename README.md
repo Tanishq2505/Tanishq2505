@@ -11,7 +11,7 @@
 <br />
 
   - 🔭 I’m an App Developer
-  - 🌱 I’m currently learning AI/ML & improving my Problem Solving skills
+  - 🌱 I’m currently learning Ethical Hacking & improving my Problem Solving skills
   - 👨‍💻 I'm also a Graphic Designer 
   - 👯 I’m looking to collaborate for projects and hackathons
   - ⚡ Fun fact: I am still a newbie😄
