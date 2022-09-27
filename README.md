@@ -7,9 +7,9 @@
   </a>
 </h1>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanskar0901"> 
-  <img src="https://img.shields.io/github/followers/sanskar0901?label=Follow&style=social)[(https://github.com/sanskar0901">
-  <img src="https://shields.io/github/stars/sanskar0901?label=Stars&style=social)[(https://github.com/sanskar0901">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tanishq2505"> 
+  <img src="https://img.shields.io/github/followers/Tanishq2505?label=Follow&style=social)[(https://github.com/Tanishq2505">
+  <img src="https://shields.io/github/stars/Tanishq2505?label=Stars&style=social)[(https://github.com/Tanishq2505">
 </p>
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" alt="GIF" align="right"> 
@@ -29,7 +29,7 @@
 <br>
 <hr />
 <br>
-  
+  [![@tanishq2505's Holopin board](https://holopin.io/api/user/board?user=tanishq2505)](https://holopin.io/@tanishq2505)
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Tanishq2505&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq2505&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
