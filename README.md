@@ -35,5 +35,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq2505&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
   
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq2505&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![@tanishq2505's Holopin board](https://holopin.io/api/user/board?user=tanishq2505)](https://holopin.io/@tanishq2505)
