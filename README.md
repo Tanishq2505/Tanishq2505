@@ -44,7 +44,7 @@
 [![@tanishq2505's Holopin board](https://holopin.io/api/user/board?user=tanishq2505)](https://holopin.io/@tanishq2505)
 
 
-
+<h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/99796ec7-8d78-46bf-8a66-c387af480a2d" title="Prompt Design in Vertex AI Skill Badge"><img src="https://images.credly.com/size/80x80/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6f0066d8-3a0b-4008-9860-bc7062e8cfd8" title="Python Essentials 1"><img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="80" height="80"></a>
