@@ -35,7 +35,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq2505&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
   </div>  
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq2505&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq2505)](https://github.com/Tanishq2505/github-profile-trophy)
 
 <br>
   <hr/>
