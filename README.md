@@ -42,5 +42,7 @@
   <br>
   
 [![@tanishq2505's Holopin board](https://holopin.io/api/user/board?user=tanishq2505)](https://holopin.io/@tanishq2505)
+[![Credly Badge](https://images.credly.com/size/200x200/images/99796ec7-8d78-46bf-8a66-c387af480a2d/badge.png)](https://www.credly.com/badges/99796ec7-8d78-46bf-8a66-c387af480a2d/public_url)
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
